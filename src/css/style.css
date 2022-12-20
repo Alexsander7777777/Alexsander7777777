@@ -97,6 +97,9 @@ nav{
 	width: 20%;
 	margin-right: 40px;
 }
+.clear{
+	clear: both;
+}
 .skills{
 	width: 100%;
 	height: 400px;
@@ -155,7 +158,7 @@ nav{
 	margin-top: 48px;
 	text-transform: uppercase;
 }
-.skills_container{
+.statistic_container{
 	text-align: center;
 	font-size: 17px;
 	color: #2c384a;
@@ -163,7 +166,7 @@ nav{
 	margin-left: 160px;
 
 }
-.skills_item{
+.statistic_item{
 	float: left;
 	width: 20%;
 	margin-right: 40px;
